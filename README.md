@@ -16,7 +16,7 @@ git clone https://github.com/Muhafifudin2306/qr-code-node-js-afifudin.git
 npm install
 ```
 
-2. Run QR Program:
+2. Run Program:
 ```sh
 node index.js
 ```
